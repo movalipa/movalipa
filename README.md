@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @movalipa
+- 👀 I’m interested in Websites and everything related to website/server
+- 🌱 I’m currently learning `Pyhton`
+- 💞️ I’m looking to collaborate on `HTML`, `CSS`, `SASS`, `Javascript`, `jQuery`, `PHP`, `Laravel` and `SQL`
+- 📫 How to reach me movalipa@gmail.com
